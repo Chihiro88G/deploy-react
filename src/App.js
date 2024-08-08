@@ -9,6 +9,9 @@ function App() {
         <p>
           DEPLOY REACT ON GITHUB
         </p>
+        <p>
+          reference: https://www.geeksforgeeks.org/deployment-of-react-application-using-github-pages/
+        </p>
       </header>
     </div>
   );
